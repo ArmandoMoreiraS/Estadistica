@@ -1,4 +1,4 @@
-﻿Matricula,Paralelo,Sexo,Edad,Peso,Estatura,Ciudad_Residencia,Promedio,Materias_Promedio_x_Termino,Carrera,Realiza_ejercicio,Frecuencia_semanal_actividad_fisica,Intensidad_actividad_fisica,Tiempo_semanal_promedio_actividad_fisica,Jornada_del_ejercicio_físico,Consumo_semanal_promedio_gaseosas,Consumo_promedio_semanal_energizantes,Consumo_promedio_semanal_agua,Numero_comidas_diarias,Porcentaje_promedio_carbohidrato_por_comida,Horas_promedio_diarias_sueño,Horas_promedio_diarias_estudio,Despierta_mas_de_1vez_durante_noche,Duerme_con_celular_a_menos_1metro,Horas_promedio_diarias_en_redes,Aplica_alguna_tecnica_estudio,Computador_uso_exclusivo,Trabaja,Episodios_por_semana_estres,Episodios_por_semana_ira_frustacion,Episodios_por_semana_miedo,Episodios_por_semana_tristeza,Episodios_por_semana_ansiedad,Tuvo_COVID19,Vacunado,Tuvo_efecto_por_vacuna,Tipo_efecto_por_vacuna
+Matricula,Paralelo,Sexo,Edad,Peso,Estatura,Ciudad_Residencia,Promedio,Materias_Promedio_x_Termino,Carrera,Realiza_ejercicio,Frecuencia_semanal_actividad_fisica,Intensidad_actividad_fisica,Tiempo_semanal_promedio_actividad_fisica,Jornada_del_ejercicio_físico,Consumo_semanal_promedio_gaseosas,Consumo_promedio_semanal_energizantes,Consumo_promedio_semanal_agua,Numero_comidas_diarias,Porcentaje_promedio_carbohidrato_por_comida,Horas_promedio_diarias_sueño,Horas_promedio_diarias_estudio,Despierta_mas_de_1vez_durante_noche,Duerme_con_celular_a_menos_1metro,Horas_promedio_diarias_en_redes,Aplica_alguna_tecnica_estudio,Computador_uso_exclusivo,Trabaja,Episodios_por_semana_estres,Episodios_por_semana_ira_frustacion,Episodios_por_semana_miedo,Episodios_por_semana_tristeza,Episodios_por_semana_ansiedad,Tuvo_COVID19,Vacunado,Tuvo_efecto_por_vacuna,Tipo_efecto_por_vacuna
 1,P2,F,19,115.4,1.5,La Troncal,7.88,5,Civil,1,3,2,120,3,0,0,5,3,40,6,8,2,1,4,1,1,2,2,1,3,2,4,3,1,1,3
 2,P2,M,20,175,1.78,Valencia,7.43,5,Naval,1,3,2,160,3,1,0,20,4,40,6,4,2,1,5,1,1,1,1,2,1,1,4,2,1,2,0
 3,P2,F,20,143,1.56,Guayaquil,8.37,5,"Biología ",1,3,2,60,2,0,0,10,3,30,6,4,1,1,4,1,1,2,3,2,2,2,1,1,1,1,1
@@ -65,11 +65,11 @@
 64,P5,M,20,165,1.7,Guayaquil,8.17,5,Civil,1,3,2,120,2,1,0,15,3,50,7,7,2,1,3,2,1,2,1,1,1,1,1,1,1,2,0
 65,P5,M,20,198,1.87,Guayaquil,8.08,5,"Biología ",1,2,1,120,2,1,1,8,3,50,6,5,2,1,4,2,2,2,2,3,2,3,3,1,1,1,0
 66,P2,M,21,140,1.65,"Guayaquil ",7.45,4,"electricidad ",2,1,1,0,0,1,0,4,2,40,7,5,2,1,6,2,1,1,1,2,2,3,3,2,1,1,5
-67,P2,F,22,,1.67,Machala,8.54,5,"Biología ",1,2,1,120,2,0,0,15,4,40,6,5,1,2,3,1,1,2,3,3,3,3,2,2,1,1,4
+67,P2,F,22,160,1.67,Machala,8.54,5,"Biología ",1,2,1,120,2,0,0,15,4,40,6,5,1,2,3,1,1,2,3,3,3,3,2,2,1,1,4
 68,P5,M,19,103.61,1.67,Babahoyo,7.84,4,Computación,1,3,1,120,2,0.5,0,1.9,3,40,6,5,2,1,3,2,1,2,1,1,1,2,2,2,1,2,0
-69,P2,M,21,,1.61,Babahoyo,7.49,4,Química,1,2,1,60,2,1,0,10,3,50,6,5,2,1,4,2,1,2,2,1,2,1,1,3,1,2,0
+69,P2,M,21,145,1.61,Babahoyo,7.49,4,Química,1,2,1,60,2,1,0,10,3,50,6,5,2,1,4,2,1,2,2,1,2,1,1,3,1,2,0
 70,P2,F,20,156.09,1.6,Guayaquil,7.92,4,Computacion,2,1,0,0,0,1,0,5,3,25,6,5,2,1,3,2,1,2,2,2,2,3,3,2,1,2,0
-71,P2,F,21,,1.56,Machala,8.26,5,Petróleos,2,4,2,120,3,0.5,0,18,4,35,6,5,2,1,5,2,1,2,2,2,1,2,1,2,1,2,0
+71,P2,F,21,120,1.56,Machala,8.26,5,Petróleos,2,4,2,120,3,0.5,0,18,4,35,6,5,2,1,5,2,1,2,2,2,1,2,1,2,1,2,0
 72,P2,M,25,122,1.64,Guayaquil,6.9,4,Electronica,1,3,1,90,3,3,0,6,3,30,6,5,2,1,4,2,1,2,1,1,1,1,1,1,1,1,1
 73,P2,M,23,130,1.65,Guayaquil,7.6,5,Computacion,2,1,0,0,0,0,1,5,2,30,5,5,2,1,0.5,1,1,1,1,4,1,2,3,2,1,1,1
 74,P2,F,21,128,1.6,Guayaquil,7.52,5,Mecatrónica,2,1,0,0,0,2,0,4,2,0,6,6,1,1,0,1,1,2,2,1,2,3,3,3,1,1,5
